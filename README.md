@@ -1,5 +1,5 @@
 <h2> Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Jessica Kopps </h2>
-<img align='right' src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif" width="232">
+<img align='right' src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif" width="230">
 <a href="mailto:jessicakopps@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" width="38"/></a>
 <a href="https://www.linkedin.com/in/jessicakopps"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="38"/></a>
 
@@ -29,6 +29,7 @@ const jessicakopps = {
     funFact: "There are two ways to write error-free programs; only the third one works - Alan J. Perlis"
 };
 ```
+<br>
 
 ---
 **My GitHub Data** 
