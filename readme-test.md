@@ -3,10 +3,10 @@
 I am a Internet Systems Development student, and I am passionate about technologies and love to learn new things.
 
 
-<img align='right' src="ttps://giphy.com/embed/4XXo8A7CIW1lZGgdhm" width="230">
+<img align='right' src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif" width="230">
 
 
-### <img src="https://giphy.com/embed/aT8qmIcoyPQ1EeB9DK" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/aT8qmIcoyPQ1EeB9DK/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const jessicakopps = {
@@ -26,8 +26,6 @@ const jessicakopps = {
 ```
 
 ---
-
-![](https://komarev.com/ghpvc/?username=jessicakopps)
 
 **My GitHub Data** 
 
