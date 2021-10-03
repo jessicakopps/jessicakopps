@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/jessicakopps"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="38"/></a>
 
 Internet Systems Development student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br>
-I am passionate about technologies and love to learn new things. <img src="https://media.giphy.com/media/CjrB9Mo0o4DNC/giphy.gif" width="40"> <br>
+Passionate about technologies and love to learn new things. <img src="https://media.giphy.com/media/CjrB9Mo0o4DNC/giphy.gif" width="40"> <br>
 <br>
 
 
