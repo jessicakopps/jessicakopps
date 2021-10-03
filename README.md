@@ -3,9 +3,10 @@
 <a href="mailto:jessicakopps@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" width="38"/></a>
 <a href="https://www.linkedin.com/in/jessicakopps"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="38"/></a>
 
-Internet Systems Development student <img src="https://media.giphy.com/media/RIUgvgjw3D5Z1ZJSvv/giphy.gif" width="50"> <br>
-I am passionate about technologies and love to learn new things. <img src="https://media.giphy.com/media/CjrB9Mo0o4DNC/giphy.gif" width="40">
+Internet Systems Development student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> <br>
+I am passionate about technologies and love to learn new things. <img src="https://media.giphy.com/media/CjrB9Mo0o4DNC/giphy.gif" width="40"> <br>
 <br>
+
 
 ### <img src="https://media.giphy.com/media/aT8qmIcoyPQ1EeB9DK/giphy.gif" width="50"> A little more about me...  
 
