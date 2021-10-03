@@ -13,8 +13,8 @@ Passionate about technologies and love to learn new things. <img src="https://me
 ```javascript
 const jessicakopps = {
     pronouns: "She" | "Her",
-    code: ["Javascript", "Typescript"],
-    askMeAbout: ["web dev", "tech", "design"],
+    code: ["Javascript"],
+    askMeAbout: ["web dev", "tech", "design", "drawings"],
     technologies: {
         frontEnd: {"CSS3", "HTML5"},        
         backEnd: {
@@ -24,7 +24,7 @@ const jessicakopps = {
         },
         devOps: ["Netlify", "Heroku", "Vercel"],
     currentFocus: "Fullstack Development",
-    currentLearning: ".NET", "C#", "Node", "React",
+    currentLearning: ".NET", "C#", "Node", "React", "MySQL",
     interestInLearningAtSomePoint: "React Native", "Java", "Doctor",    
     funFact: "There are two ways to write error-free programs; only the third one works - Alan J. Perlis"
 };
