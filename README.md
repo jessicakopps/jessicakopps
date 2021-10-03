@@ -1,23 +1,28 @@
 <h2> Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Jessica Kopps </h2>
 <img align='right' src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif" width="230">
-I am a Internet Systems Development student, and I am passionate about technologies and love to learn new things.
-<br>
+<a href="mailto:jessicakopps@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" width="50"/></a>
+<a href="https://www.linkedin.com/in/jessicakopps"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="50"/></a>
 
-### <img src="https://media.giphy.com/media/aT8qmIcoyPQ1EeB9DK/giphy.gif" width="60"> A little more about me...  
+I am a Internet Systems Development student, and I am passionate about technologies and love to learn new things. <br>
+
+### <img src="https://media.giphy.com/media/aT8qmIcoyPQ1EeB9DK/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const jessicakopps = {
     pronouns: "She" | "Her",
     code: ["Javascript", "Typescript"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    askMeAbout: ["web dev", "tech", "design"],
     technologies: {
-        frontEnd: {"CSS", "HTML5"},        
+        frontEnd: {"CSS3", "HTML5"},        
         backEnd: {
-            js: ["Node"],
+            js: ["Node(learning)"],
         },        
-        databases: ["mongo", "MySql"],
-    },
+        databases: ["mongo"],
+        },
+        devOps: ["Netlify", "Heroku", "Vercel"]
     currentFocus: "Fullstack Development",
+    currentLearning: ".NET", "C#", "Node", "React",
+    interestInLearningAtSomePoint: "React Native", "Java", "Doctor",    
     funFact: "There are two ways to write error-free programs; only the third one works - Alan J. Perlis"
 };
 ```
