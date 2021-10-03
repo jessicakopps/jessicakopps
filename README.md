@@ -22,7 +22,7 @@ const jessicakopps = {
         },        
         databases: ["mongo"],
         },
-        devOps: ["Netlify", "Heroku", "Vercel"]
+        devOps: ["Netlify", "Heroku", "Vercel"],
     currentFocus: "Fullstack Development",
     currentLearning: ".NET", "C#", "Node", "React",
     interestInLearningAtSomePoint: "React Native", "Java", "Doctor",    
