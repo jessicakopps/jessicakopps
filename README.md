@@ -1,5 +1,5 @@
 <h2> Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Jessica Kopps </h2>
-<img align='right' src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif" width="240">
+<img align='right' src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif" width="235">
 <a href="mailto:jessicakopps@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" width="38"/></a>
 <a href="https://www.linkedin.com/in/jessicakopps"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="38"/></a>
 
