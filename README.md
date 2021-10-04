@@ -13,14 +13,11 @@ Passionate about technologies and love to learn new things. <img src="https://me
 ```javascript
 const jessicakopps = {
     pronouns: "She" | "Her",
-    code: ["Javascript", "SQL"],
     askMeAbout: ["web dev", "tech", "design", "drawings"],
     technologies: {
-        frontEnd: {"CSS", "HTML5"},        
-        backEnd: {
-            js: ["Node(learning)"],
-        },        
-        databases: ["mongo"],
+        frontEnd: {"CSS", "HTML5", "Javascript"},        
+        backEnd: { " " },        
+        databases: ["mongo", "SQL"],
         },
         devOps: ["Netlify", "Heroku", "Vercel"],
     currentFocus: "Fullstack Development",
