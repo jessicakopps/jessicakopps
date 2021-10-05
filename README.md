@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/jessicakopps"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="38"/></a>
 <a href="mailto:jessicakopps@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" width="38"/></a>
 
-<h2><img align='right' src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif" width="230"></h2>
+<img align='right' src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif" width="230"> <br>
 
 
 Internet Systems Development student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br>
@@ -23,7 +23,7 @@ const jessicakopps = {
         },
         devOps: ["Netlify", "Heroku", "Vercel"],
     currentFocus: "Fullstack Development",
-    currentLearning: ".NET", "C#", "Node", "React", "MySQL",
+    currentLearning: ".NET", "C#", "Node", "React",
     interestInLearningAtSomePoint: "React Native", "Java", "Doctor",    
     funFact: "There are two ways to write error-free programs; only the third one works - Alan J. Perlis"
 };
