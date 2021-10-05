@@ -10,7 +10,7 @@ Passionate about technologies and love to learn new things. <img src="https://me
 <br>
 
 
-### <img src="https://media.giphy.com/media/aT8qmIcoyPQ1EeB9DK/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/aT8qmIcoyPQ1EeB9DK/giphy.gif" width="100%"> A little more about me...  
 
 ```javascript
 const jessicakopps = {
