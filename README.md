@@ -16,15 +16,16 @@ Passionate about technologies and love to learn new things. <img src="https://me
 const jessicakopps = {
     pronouns: "She" | "Her",
     askMeAbout: ["web dev", "tech", "design", "drawings"],
+    code: ["Javascript", "SQL"]
     technologies: {
-        frontEnd: {"CSS", "HTML5", "Javascript"},        
+        frontEnd: {"CSS", "HTML5"},        
         backEnd: { " " },        
-        databases: ["mongo", "SQL"],
+        databases: ["mongo"],
         },
-        devOps: ["Netlify", "Heroku", "Vercel"],
+        devOps: [""],
     currentFocus: "Fullstack Development",
     currentLearning: ".NET", "C#", "Node", "React",
-    interestInLearningAtSomePoint: "React Native", "Java", "Doctor",    
+    interestInLearningAtSomePoint: "React Native", "Java", "Docker",    
     funFact: "There are two ways to write error-free programs; only the third one works - Alan J. Perlis"
 };
 ```
