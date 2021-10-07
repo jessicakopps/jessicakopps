@@ -16,7 +16,7 @@ Passionate about technologies and love to learn new things. <img src="https://me
 const jessicakopps = {
     pronouns: "She" | "Her",
     askMeAbout: ["web dev", "tech", "design", "drawings"],
-    code: ["Javascript", "SQL"]
+    code: ["Javascript", "SQL"],
     technologies: {
         frontEnd: ["CSS", "HTML5"],        
         backEnd: [" "],
