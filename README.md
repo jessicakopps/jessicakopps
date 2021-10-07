@@ -20,7 +20,6 @@ const jessicakopps = {
     technologies: {
         frontEnd: ["CSS", "HTML5"],        
         backEnd: [" "],
-
         devOps: [" "],
         databases: ["mongo"],
     },
