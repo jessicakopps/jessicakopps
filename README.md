@@ -20,12 +20,12 @@ const jessicakopps = {
     technologies: {
         frontEnd: ["CSS", "HTML5"],        
         backEnd: [" "],
-        devOps: [" "],
+        devOps: ["git"],
         databases: ["mongo"],
     },
     currentFocus: "Fullstack Development",
-    currentLearning: ".NET", "C#", "Node.js", "React",
-    interestInLearningAtSomePoint: "React Native", "Java", "Docker",    
+    currentLearning: ".NET", "C#", "Java", 
+    interestInLearningAtSomePoint: "React Native", "Node.js", "React","Docker",    
     funFact: "There are two ways to write error-free programs; only the third one works - Alan J. Perlis"
 };
 ```
