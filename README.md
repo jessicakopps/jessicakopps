@@ -38,6 +38,3 @@ const jessicakopps = {
 
 
 ![](https://komarev.com/ghpvc/?username=jessicakopps&color=yellow&style=flat-square)
-
-
-
