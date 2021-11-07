@@ -23,7 +23,7 @@ const jessicakopps = {
         devOps: ["git"],
         databases: ["mongo"],
     },
-    currentFocus: "Fullstack Development",
+    currentFocus: "Fullstack",
     currentLearning: ".NET", "C#", "Java", 
     interestInLearningAtSomePoint: "React Native", "Node.js", "React","Docker",    
     funFact: "There are two ways to write error-free programs; only the third one works - Alan J. Perlis"
