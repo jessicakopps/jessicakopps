@@ -18,7 +18,7 @@ const jessicakopps = {
     askMeAbout: ["web dev", "tech", "design", "drawings"],
     code: ["Javascript", "SQL"],
     technologies: {
-        frontEnd: ["CSS", "HTML5", "React"],        
+        frontEnd: ["CSS", "HTML5", "React.js"],        
         backEnd: [" "],
         devOps: ["git"],
         databases: ["MySQL"],
