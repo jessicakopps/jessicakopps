@@ -20,7 +20,7 @@ const jessicakopps = {
     technologies: {
         frontEnd: ["CSS", "HTML5", "React.js"],        
         backEnd: ["Spring Boot"],
-        devOps: ["git", "AWS", "Docker"],
+        devOps: ["git", "AWS"],
         databases: ["MySQL"],
     },
     currentFocus: "Fullstack",
