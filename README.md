@@ -24,7 +24,7 @@ const jessicakopps = {
         databases: ["MySQL"],
     },
     currentFocus: "Fullstack",
-    currentLearning: "Course ONE: Oracle Next Education",
+    currentLearning: "Bootcamp IT | Mercado Livre",
     interestInLearningAtSomePoint: "React Native", "Node.js", ".NET", "C#",   
     funFact: "There are two ways to write error-free programs; only the third one works - Alan J. Perlis"
 };
