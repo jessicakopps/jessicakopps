@@ -1,4 +1,4 @@
-<h2> Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Jessica Kopps </h2>
+<h2> Hello, I am Jessica Kopps </h2>
 
 <img align='right' src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif" width="230"> 
 
