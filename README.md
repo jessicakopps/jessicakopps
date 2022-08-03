@@ -24,7 +24,7 @@ const jessicakopps = {
         databases: ["MySQL"],
     },
     currentFocus: "Backend",
-    currentLearning: "Bootcamp IT | Mercado Livre",
+    currentLearning: "Go",
     interestInLearningAtSomePoint: "Python", "Processing", 
     funFact: "There are two ways to write error-free programs; only the third one works - Alan J. Perlis"
 };
