@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/jessicakopps"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="38"/></a>
 <a href="mailto:jessicakopps@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" width="38"/></a>
 
-Internet Systems Development student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br>
+Frontend and Designer Apprentice <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br>
 Passionate about technologies and love to learn new things. <img src="https://media.giphy.com/media/CjrB9Mo0o4DNC/giphy.gif" width="30"> <br>
 <br>
 
@@ -23,9 +23,9 @@ const jessicakopps = {
         devOps: ["git", "AWS"],
         databases: ["MySQL"],
     },
-    currentFocus: "Backend",
-    currentLearning: "Go",
-    interestInLearningAtSomePoint: "Python", "Processing", 
+    currentFocus: "Frontend", "Design",
+    currentLearning: "Figma",
+    interestInLearningAtSomePoint: "Processing", 
     funFact: "There are two ways to write error-free programs; only the third one works - Alan J. Perlis"
 };
 ```
