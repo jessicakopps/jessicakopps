@@ -7,7 +7,9 @@
 
 Development Apprentice <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br>
 Passionate about technologies and love to learn new things. <img src="https://media.giphy.com/media/CjrB9Mo0o4DNC/giphy.gif" width="30"> <br>
+You can also check out my [professional profile](https://github.com/jessica-kopps)
 <br>
+
 
 
 ### <img src="https://media.giphy.com/media/aT8qmIcoyPQ1EeB9DK/giphy.gif" width="50"> A little more about me...  
