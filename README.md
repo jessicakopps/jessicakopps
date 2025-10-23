@@ -6,8 +6,7 @@
 <a href="mailto:jessicakopps@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email" width="38"/></a>
 
 Development Apprentice <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br>
-Passionate about technologies and love to learn new things. <img src="https://media.giphy.com/media/CjrB9Mo0o4DNC/giphy.gif" width="30"> <br>
-You can also check out my [professional profile](https://github.com/jessica-kopps)
+Passionate about technologies and love to learn new things. <img src="https://media.giphy.com/media/CjrB9Mo0o4DNC/giphy.gif" width="30"> 
 <br>
 
 
@@ -18,14 +17,14 @@ You can also check out my [professional profile](https://github.com/jessica-kopp
 const jessicakopps = {
     pronouns: "She" | "Her",
     askMeAbout: ["web dev", "tech", "design", "drawings"],
-    code: ["Javascript", "SQL", "Java"],
+    code: ["JavaScript", "SQL", "Java"],
     technologies: {
         frontEnd: ["CSS", "HTML5"],        
         backEnd: ["Spring Boot"],
         devOps: ["git", "AWS"],
         databases: ["MySQL"],
     },
-    currentFocus: "Frontend", "Backend",
+    currentFocus: "Frontend",
     currentLearning: "Algorithms",
     interestInLearningAtSomePoint: "Processing", 
     funFact: "There are two ways to write error-free programs; only the third one works - Alan J. Perlis"
